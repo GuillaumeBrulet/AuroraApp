@@ -2,5 +2,5 @@
 <item>
     <version>2.0.0.0</version>
     <url>https://github.com/GuillaumeBrulet/AuroraApp/raw/main/update.zip</url>
-    <mandatory>t</mandatory>
+    <mandatory>true</mandatory>
 </item>
